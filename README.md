@@ -1,1 +1,1 @@
-# Software.Quarog
+# Software-Quarog
